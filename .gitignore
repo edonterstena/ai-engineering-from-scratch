@@ -137,3 +137,4 @@ site/manuals.html
 .project-validation/
 projects/*/solution/output/
 projects/*/solution/demo-output/
+my-work/**/hello # tell git to ignore the compiled program
